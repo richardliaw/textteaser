@@ -1,4 +1,4 @@
-from summarizer import Summarizer
+from textteaser.summarizer import Summarizer
 
 
 def getInput():
